@@ -60,6 +60,7 @@ This project focuses on analyzing transaction data using Exploratory Data Analys
 **Linear Regression**
 * Independent Variables: Time, Amount
 * Dependent Variable: Fraud Class
+  
 **Evaluation Metric**
 * R² Score
   
