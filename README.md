@@ -8,6 +8,7 @@ This project focuses on analyzing transaction data using Exploratory Data Analys
 ## Dataset
 
 * **Source:** Kaggle
+
 * **Dataset Name:** Credit Card Fraud Detection Dataset
 
 ### Selected Columns
@@ -50,11 +51,15 @@ This project focuses on analyzing transaction data using Exploratory Data Analys
 10. Insights & Conclusion
     
 ## Visualizations
-* Fraud Distribution Chart
-* Transaction Amount Histogram
-* Correlation Heatmap
-* Scatter Plot Analysis
-* Box Plot for Outlier Detection
+
+### Fraud Distribution
+2<img width="732" height="562" alt="Screenshot (504)" src="https://github.com/user-attachments/assets/0449eb01-ce94-45e6-b910-193a48b30ca4" />
+
+### Transaction Amount 
+<img width="713" height="541" alt="Screenshot (505)" src="https://github.com/user-attachments/assets/98e63d33-eb95-4bc2-aaf8-ffd1e5cf28fc" />
+
+### Correlation Heatmap
+<img width="908" height="637" alt="Screenshot (506)" src="https://github.com/user-attachments/assets/da8f5083-b72b-4fd1-b9a6-37608cb66c86" />
 
 ## Model Used
 **Linear Regression**
